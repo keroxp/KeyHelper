@@ -1,0 +1,24 @@
+#scpopup{
+    position : fixed;
+    width : 90%;
+    top : 10px;
+    left:50%;
+    margin-left:-45%;
+    background-color : rgba(0,0,0,0.75);
+    padding : 15px;
+    border-radius : 8px;
+    display : none;
+    box-shadow:0 2px 4px rgba(0,0,0,0.4);
+    color:white;
+}
+#scpopup-h{
+    font-size:28px;
+    font-weight:bold;
+}
+#scpopup table td.title{
+    color:yellow;
+    font-weight:bold
+}
+
+#scpopup table td.desc{
+}
